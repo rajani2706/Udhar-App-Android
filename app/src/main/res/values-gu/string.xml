@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customer_details">ગ્રાહકની વિગતો</string>
+    <string name="add_udhar">+ ઉધાર ઉમેરો</string>
+    <string name="receive_payment">ચુકવણી મેળવો</string>
+    <string name="edit_customer">ગ્રાહક સંપાદિત કરો</string>
+    <string name="delete_customer">ગ્રાહક કાઢી નાખો</string>
+    <string name="recent_transactions">તાજેતરના વ્યવહારો</string>
+</resources>

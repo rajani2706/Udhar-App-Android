@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124720371571",
+    "project_id": "udhar-app-82d23",
+    "storage_bucket": "udhar-app-82d23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124720371571:android:049f0fb5a7c1dc16ad1706",
+        "android_client_info": {
+          "package_name": "com.smart_nootes.udhaarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo4vTvnNtf3JsLS7QcRbtjHdChdyhhIIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

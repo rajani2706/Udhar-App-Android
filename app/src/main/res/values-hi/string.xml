@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customer_details">ग्राहक विवरण</string>
+    <string name="add_udhar">+ उधार जोड़ें</string>
+    <string name="receive_payment">भुगतान प्राप्त करें</string>
+    <string name="edit_customer">ग्राहक संपादित करें</string>
+    <string name="delete_customer">ग्राहक हटाएँ</string>
+    <string name="recent_transactions">हाल के लेन-देन</string>
+</resources>
